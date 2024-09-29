@@ -11,7 +11,7 @@ Music Recommendation System: Overview: Built a recommendation model based on the
 
 Image to Pencil Sketch Conversion: Overview: Developed an OpenCV model to convert images into pencil sketches. Approach: Utilized image processing techniques in OpenCV to transform color images into artistic sketches. Conclusion: Successfully converted images to pencil sketches, demonstrating proficiency in computer vision.
 
-Global Terrorism Dataset EDA: Overview: Conducted exploratory data analysis (EDA) on the Global Terrorism dataset using Tableau, analyzing nearly 175 features. Approach: Visualized insights using Tableau for better understanding of global terrorism patterns. Conclusion: Provided a comprehensive analysis on terrorism attacks, accessible through my public Tableau dashboard: https://public.tableau.com/app/profile/honey.sam/viz/GlobalTerrorismAttackAnalysisWorkbook/AttacksSummary
+Global Terrorism Dataset EDA: Overview: Conducted exploratory data analysis (EDA) on the Global Terrorism dataset using Tableau, analyzing nearly 175 features. Approach: Visualized insights using Tableau for better understanding of global terrorism patterns. Conclusion: Provided a comprehensive analysis on terrorism attacks.
 
 Decision Tree Classifier on Iris: Overview: Built a Decision Tree Classifier on the Iris dataset for species classification. Approach: Leveraged decision tree algorithms to classify the data. Conclusion: Achieved optimal classification performance, further confirming the effectiveness of tree-based models.
 
